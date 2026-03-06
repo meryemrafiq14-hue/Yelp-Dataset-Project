@@ -84,7 +84,7 @@ export DB_PASSWORD='your_password'
 
 Alternatively, you can copy `config.example.py` to `config.py` and configure your database credentials there (make sure `config.py` is in `.gitignore`).
 
-**Note:** Never commit database credentials or passwords to version control.
+
 
 ## License
 
